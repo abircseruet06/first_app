@@ -1,0 +1,12 @@
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2011-07-25 12:21:08 +0600
+Served asset /rails.png - 200 OK  (159ms)  (pid 93574)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2011-07-25 12:21:38 +0600
+Served asset /rails.png - 200 OK  (0ms)  (pid 93574)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2011-07-25 12:21:54 +0600
+Served asset /rails.png - 200 OK  (0ms)  (pid 93574)
