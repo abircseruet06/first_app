@@ -5,7 +5,9 @@ gem 'rails', '3.1.0.rc4'
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
-gem 'sqlite3'
+group :development do
+   gem 'sqlite3-ruby', :require => 'sqlite3'
+end
 
 # Asset template engines
 gem 'sass-rails', "~> 3.1.0.rc"
